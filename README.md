@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Sam (@samj6893) 👋
 
-<!--
-**samj6893/samj6893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Amsterdam. Spending days shipping backend code and nights hacking on indie projects. Big fan of simple tech stacks that let you ship fast without managing ten Kubernetes clusters.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🛠️ Building small SaaS experiments and dev tools
+- 🐍 Designing typed REST APIs with FastAPI
+- 💾 Playing around with SQLite-first and local-first app patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Core:** TypeScript, Python, SQL
+- **Web:** React, Next.js, FastAPI, TailwindCSS
+- **DB & Cloud:** SQLite, PostgreSQL, Docker, Fly.io
+
+#### Connect
+- Twitter/X: [@samj6893](https://x.com)
+- Email: `sam@samj6893.dev`
+- Drop an issue on any repo if something is broken
